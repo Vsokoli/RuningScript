@@ -8,7 +8,7 @@ from lxml import etree as lxml
 import requests 
 #test test
 #andras ist gay
-#Andras ist sheiße asgdjhasgdjhasgdhagsdjahsgdjahsda
+#Andras ist d. sadasdasdasd
 
 # import shutil
 
